@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa6026E0b30452c9494196E1164678C424D3C2E3b",
+  "SCAN_LINK": "https://etherscan.io/address/0xa6026E0b30452c9494196E1164678C424D3C2E3b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Scanty Lions NFT",
+  "SYMBOL": "SLSNFT",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/noblesimagsanft",
+  "SHOW_BACKGROUND": true
+}
