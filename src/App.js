@@ -415,29 +415,29 @@ function App() {
 
 
         <ResponsiveWrapper flex={2} style={{ padding: 14 }} test>
-          <s.Container flex={1} jc={"center"} ai={"center"}>
+        <s.Container flex={1} jc={"center"} ai={"center"}>
             <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" height="40px" width="40px"/>
-            <a href="https://t.me/scantylions"><h2 style={{color:'#fff'}}>Telegram</h2></a>
+            <a href="https://discord.gg/8JvCcVJNeh"><h2 style={{color:'#fff'}}>Discord</h2></a>
           </s.Container>
 
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" height="40px" width="40px"/>
-         <a href="https://twitter.com/Scantylions"> <h2 style={{color:'#fff'}}>Twitter</h2></a>
+         <a href="https://twitter.com/scantyverse"> <h2 style={{color:'#fff'}}>Twitter</h2></a>
           </s.Container>
 
 
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" height="40px" width="40px"/>
-            <a href="https://instagram.com/scantylionsnft/"> <h2 style={{color:'#fff'}}>Instagram</h2></a>
+            <a href="https://www.instagram.com/scantyverse/"> <h2 style={{color:'#fff'}}>Instagram</h2></a>
           </s.Container>
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" height="40px" width="40px"/>
-            <a href="https://opensea.io/collection/scantylionsnft">  <h2 style={{color:'#fff'}}>Opensea</h2></a>
+            <a href="#">  <h2 style={{color:'#fff'}}>Opensea</h2></a>
           </s.Container>
           
           <s.Container flex={1} jc={"center"} ai={"center"}>
             <img src="https://e7.pngegg.com/pngimages/93/538/png-clipart-smart-contract-computer-icons-ethereum-solidity-symbol-miscellaneous-angle.png" height="40px" width="40px"/>
-            <a href="https://polygonscan.com/token/0x7de0ffcbca8ffc8e4245af9b5bc1d2e6caa19935">  <h2 style={{color:'#fff'}}>Smart Contract</h2></a>
+            <a href="https://etherscan.io/address/0xa6026e0b30452c9494196e1164678c424d3c2e3b#code">  <h2 style={{color:'#fff'}}>Smart Contract</h2></a>
           </s.Container>
 
         </ResponsiveWrapper>
